@@ -1,0 +1,138 @@
+#navbarNavDropdown
+{
+  text-align: center;
+}
+.dropdown-menu
+{
+  background: gainsboro !important;
+}
+.dropdown-menu .dropdown-item
+{
+  text-align: center;
+  padding: 15px;
+}
+.nav-item .nav-link
+{
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.nav-item .nav-link:hover
+{
+  /* background: gainsboro; */
+  border-radius: 12px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+button[type="button"]
+{
+  border-radius: 40px;
+  padding: 20px;
+}
+.boundary
+{
+  border: 0px solid black;
+}
+.card-body a:hover
+{
+  text-decoration: none;
+}
+.block
+{
+  margin-left: 15px;
+  margin-right:15px;
+  margin-top: 25px;
+}
+#one
+{
+  height: 400px;
+  background-image: url(../img/blog.jpg);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#one:hover
+{
+  transform: scale(85%,85%);
+  transition: 1s;
+}
+#two
+{
+  height: 400px;
+  background-image: url(../img/blog1.jpg);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#two:hover
+{
+  transform: scale(85%,85%);
+  transition: 1s;
+}
+#three
+{
+  height: 400px;
+  background-image: url(../img/blog2.jpg);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#three:hover
+{
+  transform: scale(85%,85%);
+  transition: 1s;
+}
+#four
+{
+  height: 400px;
+  background-image: url(../img/coverage.jpg);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#four:hover
+{
+  transform: scale(85%,85%);
+  transition: 1s;
+}
+#five
+{
+  height: 400px;
+  background-image: url(../img/business.png);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#five:hover
+{
+  transform: scale(85%,85%);
+  transition: 1s;
+}
+#six
+{
+  height: 400px;
+  background-image: url(../img/hairstyle.jpg);
+  background-size: 100% 100%;
+  border-radius: 20px;
+  border: 3px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#six:hover
+{
+  transform: scale(85%,85%);
+  transition: 1s;
+}
+ul
+{
+  list-style-type: none;
+  padding-left: 0;
+}
+ul a:hover
+{
+  text-decoration: none;
+}

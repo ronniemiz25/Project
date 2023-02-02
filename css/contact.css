@@ -1,0 +1,134 @@
+#navbarNavDropdown
+{
+  text-align: center;
+}
+.dropdown-menu
+{
+  background: gainsboro !important;
+}
+.dropdown-menu .dropdown-item
+{
+  text-align: center;
+  padding: 15px;
+}
+.nav-item .nav-link
+{
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.nav-item .nav-link:hover
+{
+  /* background: gainsboro; */
+  border-radius: 12px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+button[type="button"]
+{
+  border-radius: 40px;
+  padding: 20px;
+}
+.boundary
+{
+  border: 0px solid black;
+}
+.main
+{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.shadow
+{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 15px;
+}
+ul
+{
+  list-style-type: none;
+  padding-left: 0;
+}
+ul a:hover
+{
+  text-decoration: none;
+}
+.colslide
+{
+  height: 240px;
+}
+.minslide
+{
+  height: 100%;
+  border-radius: 14px;
+}
+#one
+{
+  background-image: url(../img/slide.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#two
+{
+  background-image: url(../img/slide1.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#three
+{
+  background-image: url(../img/slide2.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#four
+{
+  background-image: url(../img/coverage.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#five
+{
+  background-image: url(../img/hairstyle.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#six
+{
+  background-image: url(../img/model.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#seven
+{
+  background-image: url(../img/customer.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#eight
+{
+  background-image: url(../img/hairstyle2.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#nine
+{
+  background-image: url(../img/blog1.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#ten
+{
+  background-image: url(../img/blog2.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#elev
+{
+  background-image: url(../img/blog.jpg);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#twel
+{
+  background-image: url(../img/cut3.png);
+  background-size: 100% 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

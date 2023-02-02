@@ -1,0 +1,174 @@
+#navbarNavDropdown
+{
+  text-align: center;
+}
+.dropdown-menu
+{
+  background: gainsboro !important;
+}
+.dropdown-menu .dropdown-item
+{
+  text-align: center;
+  padding: 15px;
+}
+.nav-item .nav-link
+{
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.nav-item .nav-link:hover
+{
+  /* background: gainsboro; */
+  border-radius: 12px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.head
+{
+  border: 0px solid black;
+  height: 560px;
+}
+#first
+{
+  background-image: url(../img/slide.jpg);
+  background-size: 100% 100%;
+}
+#second
+{
+  background-image: url(../img/slide1.jpg);
+  background-size: 100% 100%;
+}
+#third
+{
+  background-image: url(../img/slide2.jpg);
+  background-size: 100% 100%;
+}
+.intro
+{
+  position: relative;
+  top: 20%;
+}
+.discover
+{
+  position: relative;
+  top: 25%;
+  letter-spacing: 1.2px;
+}
+button[type="button"]
+{
+  border-radius: 40px;
+  padding: 20px;
+}
+.boundary
+{
+  border: 0px solid black;
+}
+.section
+{
+  margin-top: 40px;
+  margin-left: 25px;
+  margin-right: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background: white;
+}
+.block
+{
+  border: 0px solid black;
+  border-radius: 25pc;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.sect-lft
+{
+  height: 600px;
+  background-image: url(../img/coverage.jpg);
+  background-size: 100% 100%;
+  border-radius: 15px;
+  position: relative;
+}
+.inner_lft
+{
+  position: absolute;
+  top: 75%;
+  left: 30%;
+  border-radius: 15px;
+}
+.left
+{
+  border-radius: 50%;
+  height: 60px;
+  margin-top: 20px;
+}
+.number
+{
+  position: relative;
+  left: -10px;
+  top: -14px;
+}
+.multiple
+{
+  background: white;
+  border-radius: 12px;
+  margin-top: 25px;
+  margin-left: 12px;
+  margin-right: 12px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+ul
+{
+  list-style-type: none;
+  padding-left: 0;
+}
+ul a:hover
+{
+  text-decoration: none;
+}
+.right
+{
+  height: 26px;
+  float: left;
+}
+.bullets
+{
+  position: relative;
+  left: 10px;
+  letter-spacing: 1px;
+}
+.datas
+{
+  border-radius: 15px;
+  position: relative;
+  top: -140px;
+}
+.white-right
+{
+  border-right: 1px solid white;
+}
+.white-left
+{
+  border-left: 1px solid white;
+}
+.testimonial
+{
+  border: 0px solid black;
+  position: relative;
+  top: -8.5pc;
+  z-index: -1;
+}
+.test-margin
+{
+  margin-top: 100px;
+}
+.test
+{
+  margin-top: 25px;
+  margin-left: 12px;
+  margin-right: 12px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.white-bottom
+{
+  border-bottom: 1px solid white;
+}

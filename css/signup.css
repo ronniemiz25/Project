@@ -1,0 +1,97 @@
+#navbarNavDropdown
+{
+  text-align: center;
+}
+.dropdown-menu
+{
+  background: gainsboro !important;
+}
+.dropdown-menu .dropdown-item
+{
+  text-align: center;
+  padding: 15px;
+}
+.nav-item .nav-link
+{
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.nav-item .nav-link:hover
+{
+  /* background: gainsboro; */
+  border-radius: 12px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+button[type="button"]
+{
+  border-radius: 40px;
+  padding: 20px;
+}
+.boundary
+{
+  border: 0px solid black;
+}
+.sign
+{
+  margin: 0px auto;
+  margin-top: 60px;
+  border: 1px solid black;
+  background-color: #66d0f0;
+  background-image: linear-gradient(#66d0f0,white);
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 20px;
+}
+.form-control:hover
+{
+  border: 3px solid blue;
+}
+.form-control
+{
+  resize: none;
+}
+ul
+{
+  list-style-type: none;
+  padding-left: 0;
+}
+ul a:hover
+{
+  text-decoration: none;
+}
+.white-bottom
+{
+  border-bottom: 1px solid white;
+}
+input[type="submit"]
+{
+  padding: 10px 18px;
+  letter-spacing: 1.2px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid blue;
+}
+input[type="reset"]
+{
+  padding: 10px 18px;
+  letter-spacing: 1.2px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-left: 5px;
+  border: 1px solid blue;
+}
+.body
+{
+  background: whitesmoke;
+  background-image: linear-gradient(whitesmoke,#66d0f0);
+}
+.log
+{
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+button[type="submit"]
+{
+  padding: 12px 24px;
+}
